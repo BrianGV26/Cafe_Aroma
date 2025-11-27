@@ -64,7 +64,7 @@ a{
 /* ---------- Hero ---------- */
 .hero {
   background: linear-gradient(rgba(0,0,0,0), #f5ebdc), 
-              url("imagenes/cafe_inicio.png") center/cover no-repeat;
+              url("../imagenes/cafe_inicio.png") center/cover no-repeat;
   background: linear-gradient();
   height: 250px;
   display: flex;
